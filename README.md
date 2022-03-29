@@ -1,3 +1,3 @@
 # Discord-Bot
 
-Description
+A Chat Bot on the instant messaging platform, Discord.
